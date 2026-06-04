@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>New Beer Drop — Old City Hall Barbecue &amp; Brewery</title>
+  <!--[if mso]>
+  <noscript>
+    <xml><o:OfficeDocumentSettings><o:PixelsPerInch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml>
+  </noscript>
+  <![endif]-->
+  <style>
+    /* Reset */
+    body, table, td, a { -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
+    table, td { mso-table-lspace: 0pt; mso-table-rspace: 0pt; }
+    img { -ms-interpolation-mode: bicubic; border: 0; height: auto; line-height: 100%; outline: none; text-decoration: none; }
+    body { margin: 0 !important; padding: 0 !important; background-color: #1C1C1C; }
+    * { box-sizing: border-box; }
+
+    /* Responsive */
+    @media screen and (max-width: 600px) {
+      .email-container { width: 100% !important; }
+      .fluid { max-width: 100% !important; height: auto !important; }
+      .stack-on-mobile { display: block !important; width: 100% !important; }
+      .mobile-padding { padding: 24px 20px !important; }
+      .hero-headline { font-size: 32px !important; line-height: 38px !important; }
+      .beer-name { font-size: 26px !important; line-height: 32px !important; }
+      .hide-on-mobile { display: none !important; }
+    }
+  </style>
+</head>
+
+<body style="margin:0; padding:0; background-color:#1C1C1C;">
+
+<!-- Preheader (hidden preview text) -->
+<div style="display:none; max-height:0; overflow:hidden; mso-hide:all;">
+  Something new just hit the taps at Old City Hall. Come get it while it's cold. &#8203;&nbsp;&#847; &zwnj;&nbsp;&#847; &zwnj;&nbsp;&#847; &zwnj;&nbsp;&#847; &zwnj;&nbsp;&#847; &zwnj;&nbsp;&#847;
+</div>
+
+<!-- Email wrapper -->
+<table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%" style="background-color:#1C1C1C;">
+<tr><td align="center" style="padding: 20px 10px;">
+
+  <!-- Email container -->
+  <table role="presentation" class="email-container" cellspacing="0" cellpadding="0" border="0" width="600" style="max-width:600px; background-color:#111111;">
+
+    <!-- ===== HEADER ===== -->
+    <tr>
+      <td style="background-color:#111111; padding: 28px 40px 20px; border-bottom: 3px solid #C8860A;" align="center">
+        <!-- Logo placeholder — swap src with actual hosted logo URL -->
+        <!--[if !mso]><!-->
+        <img src="https://via.placeholder.com/260x60/111111/C8860A?text=OLD+CITY+HALL" alt="Old City Hall Barbecue &amp; Brewery" width="260" class="fluid" style="display:block; margin:0 auto; max-width:260px;" />
+        <!--<![endif]-->
+        <!--[if mso]>
+        <table role="presentation" cellpadding="0" cellspacing="0" border="0"><tr><td style="font-family:Georgia,serif; font-size:22px; color:#C8860A; letter-spacing:2px; text-transform:uppercase;">OLD CITY HALL</td></tr></table>
+        <![endif]-->
+        <p style="margin:10px 0 0; font-family:Georgia, 'Times New Roman', serif; font-size:11px; letter-spacing:3px; color:#888888; text-transform:uppercase;">Barbecue &amp; Brewery &mdash; Oswego, NY</p>
+      </td>
+    </tr>
+
+    <!-- ===== HERO — BEER LABEL IMAGE ===== -->
+    <tr>
+      <td style="padding:0;" align="center">
+        <!-- Swap this src with a real beer/can/tap photo -->
+        <img src="https://via.placeholder.com/600x340/1C1C1C/C8860A?text=TAP+PHOTO+HERE" alt="New beer on tap at Old City Hall" width="600" class="fluid" style="display:block; width:100%; max-width:600px;" />
+      </td>
+    </tr>
+
+    <!-- ===== AMBER RULE ===== -->
+    <tr>
+      <td style="background-color:#C8860A; height:6px; font-size:0; line-height:0;">&nbsp;</td>
+    </tr>
+
+    <!-- ===== INTRO HEADLINE ===== -->
+    <tr>
+      <td class="mobile-padding" style="background-color:#1C1C1C; padding: 40px 48px 24px;" align="center">
+        <p style="margin:0 0 10px; font-family:Georgia, 'Times New Roman', serif; font-size:12px; letter-spacing:4px; color:#C8860A; text-transform:uppercase;">Now Pouring</p>
+        <h1 class="hero-headline" style="margin:0; font-family:Georgia, 'Times New Roman', serif; font-size:40px; line-height:46px; color:#F2EBD9; font-weight:normal; letter-spacing:-0.5px;">
+          <!-- EDITABLE: Beer Name -->
+          Meet <em style="color:#C8860A;">{{BEER_NAME}}</em>
+        </h1>
+        <p style="margin:14px 0 0; font-family:Georgia, 'Times New Roman', serif; font-size:13px; color:#888888; letter-spacing:2px; text-transform:uppercase;">
+          <!-- EDITABLE: Style, ABV -->
+          {{BEER_STYLE}} &nbsp;&bull;&nbsp; {{ABV}}% ABV
+        </p>
+      </td>
+    </tr>
+
+    <!-- ===== BODY COPY ===== -->
+    <tr>
+      <td class="mobile-padding" style="background-color:#1C1C1C; padding: 0 48px 32px;" align="left">
+        <p style="margin:0 0 18px; font-family:Arial, Helvetica, sans-serif; font-size:16px; line-height:26px; color:#C8C2B4;">
+          <!-- EDITABLE: Opening story hook — 2–3 sentences, OCH voice -->
+          {{OPENING_COPY}}
+        </p>
+        <p style="margin:0; font-family:Arial, Helvetica, sans-serif; font-size:16px; line-height:26px; color:#C8C2B4;">
+          <!-- EDITABLE: Tasting notes / story paragraph -->
+          {{TASTING_NOTES_COPY}}
+        </p>
+      </td>
+    </tr>
+
+    <!-- ===== TASTING NOTES CHIPS ===== -->
+    <tr>
+      <td class="mobile-padding" style="background-color:#1C1C1C; padding: 0 48px 36px;" align="left">
+        <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+          <tr>
+            <!-- EDITABLE: Up to 3 flavor/aroma chips -->
+            <td style="padding:0 8px 8px 0;">
+              <span style="display:inline-block; background-color:#2A2A2A; border:1px solid #3A3A3A; border-radius:4px; padding:8px 16px; font-family:Arial, sans-serif; font-size:13px; color:#C8860A; letter-spacing:1px; text-transform:uppercase;">{{TASTING_NOTE_1}}</span>
+            </td>
+            <td style="padding:0 8px 8px 0;">
+              <span style="display:inline-block; background-color:#2A2A2A; border:1px solid #3A3A3A; border-radius:4px; padding:8px 16px; font-family:Arial, sans-serif; font-size:13px; color:#C8860A; letter-spacing:1px; text-transform:uppercase;">{{TASTING_NOTE_2}}</span>
+            </td>
+            <td style="padding:0 8px 8px 0;">
+              <span style="display:inline-block; background-color:#2A2A2A; border:1px solid #3A3A3A; border-radius:4px; padding:8px 16px; font-family:Arial, sans-serif; font-size:13px; color:#C8860A; letter-spacing:1px; text-transform:uppercase;">{{TASTING_NOTE_3}}</span>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+
+    <!-- ===== DIVIDER ===== -->
+    <tr>
+      <td style="padding: 0 48px;">
+        <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%">
+          <tr><td style="border-top:1px solid #2E2E2E; font-size:0; line-height:0;">&nbsp;</td></tr>
+        </table>
+      </td>
+    </tr>
+
+    <!-- ===== PAIRING CALLOUT ===== -->
+    <tr>
+      <td class="mobile-padding" style="background-color:#1C1C1C; padding: 32px 48px;" align="left">
+        <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%">
+          <tr>
+            <td width="6" style="background-color:#C8860A; border-radius:3px;">&nbsp;</td>
+            <td style="padding-left:20px;">
+              <p style="margin:0 0 6px; font-family:Georgia, serif; font-size:12px; letter-spacing:3px; color:#C8860A; text-transform:uppercase;">Pairs Well With</p>
+              <p style="margin:0; font-family:Arial, sans-serif; font-size:15px; line-height:24px; color:#C8C2B4;">
+                <!-- EDITABLE: BBQ pairing suggestion -->
+                {{FOOD_PAIRING_COPY}}
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+
+    <!-- ===== DIVIDER ===== -->
+    <tr>
+      <td style="padding: 0 48px;">
+        <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%">
+          <tr><td style="border-top:1px solid #2E2E2E; font-size:0; line-height:0;">&nbsp;</td></tr>
+        </table>
+      </td>
+    </tr>
+
+    <!-- ===== CTA ===== -->
+    <tr>
+      <td class="mobile-padding" style="background-color:#1C1C1C; padding: 36px 48px;" align="center">
+        <p style="margin:0 0 24px; font-family:Georgia, serif; font-size:18px; line-height:28px; color:#F2EBD9; text-align:center;">
+          <!-- EDITABLE: CTA teaser line -->
+          {{CTA_TEASER_LINE}}
+        </p>
+        <!-- Primary CTA Button -->
+        <table role="presentation" cellspacing="0" cellpadding="0" border="0" align="center" style="margin:0 auto;">
+          <tr>
+            <td style="border-radius:4px; background-color:#C8860A;" align="center">
+              <a href="{{CTA_URL}}" target="_blank" style="display:inline-block; padding:16px 36px; font-family:Arial, Helvetica, sans-serif; font-size:14px; font-weight:bold; letter-spacing:2px; color:#111111; text-decoration:none; text-transform:uppercase;">
+                <!-- EDITABLE: Button label -->
+                {{CTA_BUTTON_LABEL}}
+              </a>
+            </td>
+          </tr>
+        </table>
+        <!-- Secondary link -->
+        <p style="margin:20px 0 0; font-family:Arial, sans-serif; font-size:13px; color:#666666;">
+          Or find us at <a href="https://oldcityhallbbq.com" style="color:#C8860A; text-decoration:none;">oldcityhallbbq.com</a>
+        </p>
+      </td>
+    </tr>
+
+    <!-- ===== AMBER RULE ===== -->
+    <tr>
+      <td style="background-color:#C8860A; height:4px; font-size:0; line-height:0;">&nbsp;</td>
+    </tr>
+
+    <!-- ===== HOURS + ADDRESS ===== -->
+    <tr>
+      <td class="mobile-padding" style="background-color:#161616; padding: 28px 48px;" align="center">
+        <p style="margin:0 0 6px; font-family:Arial, sans-serif; font-size:13px; color:#888888; letter-spacing:1px; text-transform:uppercase;">Come See Us</p>
+        <p style="margin:0; font-family:Arial, sans-serif; font-size:14px; line-height:22px; color:#C8C2B4;">
+          <!-- EDITABLE: Address -->
+          {{RESTAURANT_ADDRESS}}<br />
+          Oswego, NY
+        </p>
+        <p style="margin:10px 0 0; font-family:Arial, sans-serif; font-size:13px; color:#888888;">
+          <!-- EDITABLE: Hours -->
+          {{HOURS_SHORT}}
+        </p>
+      </td>
+    </tr>
+
+    <!-- ===== FOOTER ===== -->
+    <tr>
+      <td style="background-color:#111111; padding: 24px 40px;" align="center">
+        <!-- Social links -->
+        <p style="margin:0 0 14px; font-family:Arial, sans-serif; font-size:12px; color:#555555; letter-spacing:1px;">
+          <a href="{{FACEBOOK_URL}}" style="color:#C8860A; text-decoration:none;">Facebook</a>
+          &nbsp;&nbsp;|&nbsp;&nbsp;
+          <a href="{{INSTAGRAM_URL}}" style="color:#C8860A; text-decoration:none;">Instagram</a>
+        </p>
+        <!-- Legal / unsubscribe -->
+        <p style="margin:0; font-family:Arial, sans-serif; font-size:11px; line-height:18px; color:#444444;">
+          You're receiving this because you're a friend of Old City Hall. No spam, just good beer and smoke.<br />
+          <a href="{{UNSUBSCRIBE_URL}}" style="color:#555555; text-decoration:underline;">Unsubscribe</a>
+          &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+          <a href="{{PRIVACY_URL}}" style="color:#555555; text-decoration:underline;">Privacy Policy</a>
+        </p>
+        <p style="margin:12px 0 0; font-family:Georgia, serif; font-size:11px; color:#333333; letter-spacing:1px;">&copy; {{YEAR}} Old City Hall Barbecue &amp; Brewery. Oswego, NY.</p>
+      </td>
+    </tr>
+
+  </table>
+  <!-- /Email container -->
+
+</td></tr>
+</table>
+<!-- /Email wrapper -->
+
+</body>
+</html>

@@ -89,6 +89,17 @@ Key reference folders:
 
 ---
 
+## Canva Master Templates
+
+These are the primary Canva design files used for OCH content. Always reference these before creating new designs.
+
+| Template | Canva ID | Shortlink | Use For |
+|---|---|---|---|
+| New Beer Email Template - OCH | DAHGSn9bi4I | https://canva.link/zb9v0zbwqnyimpi | New beer releases, beer launch emails |
+| OCH - Announcements | DAHFYSdz5bs | https://canva.link/08bl1hfbiteosem | General announcements, events, specials |
+
+---
+
 ## Automation Approval Levels
 
 ### Level 1 — Auto-Approved (no confirmation needed)

@@ -20,3 +20,9 @@ Execute these immediately when requested:
 - Competitor summaries
 
 All other tasks should be proposed and confirmed before executing.
+
+## Blog Content Planning — SEO Lead Time
+
+SEO indexing takes roughly 3-4 weeks to show results. When researching and writing the weekly blog post, angle it on local events, seasonal happenings, or trends landing **3-4 weeks out from the publish date** — not the current week. Example: if today is July 29, research and hook the post around events happening in the last week of August, not this Friday.
+
+This applies to the local-events hook specifically (Step 1 of the weekly blog routine). Evergreen angles (menu, catering, general BBQ/brewery trends) aren't bound by this and can still be timely to write.

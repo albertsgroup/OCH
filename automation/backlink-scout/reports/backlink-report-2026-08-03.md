@@ -2,20 +2,140 @@
 
 Old City Hall Barbecue & Brewery, 159 Water Street, Oswego, NY. Research run by OCH Weekly Backlink Scout automation. All outreach below is drafted for manual review — nothing has been sent.
 
-| Site Name | URL | Relevance | Contact Method | Outreach Message |
-|---|---|---|---|---|
-| **The Knot — Catering Marketplace (Oswego, NY)** | https://www.theknot.com/marketplace/catering-oswego-ny | High | Vendor signup: https://www.weddingpro.com (WeddingPro business intake, shared with The Knot) | Hey, it's Jim over at Old City Hall Barbecue & Brewery in Oswego. We're set up in the old 1848 city hall building right on the Oswego River, and we cater private parties and weddings with slow-smoked barbecue and our own house-brewed beer, no rented steam trays required. I noticed your Oswego catering listings don't have a barbecue option yet, and figured a river view with a whiskey bar and a smoker running out back might be exactly what some couples are looking for. We've done rehearsal dinners and receptions for folks who wanted something a little less black-tie and a little more "pull up a chair." Would love to get listed so brides and grooms searching Oswego catering find us. Happy to send photos, a sample catering menu, or answer anything you need for the listing. Thanks for keeping good vendors easy to find around here. |
-| **Family Destinations Guide — "11 Best Restaurants in Oswego, NY"** | https://familydestinationsguide.com/best-restaurants-in-oswego-ny/ | High | partners@familydestinationsguide.com | Hi there, I'm Jim Walter, part of the crew at Old City Hall Barbecue & Brewery in Oswego, NY. Came across your Oswego restaurant roundup and noticed we didn't make the list, which stung a little, ha. We're set up inside the original 1848 Oswego City Hall right on the water, smoking our own barbecue low and slow and brewing our own beer on-site, so it's part smokehouse, part brewery, part little slice of local history. Folks come from Syracuse and beyond for the river view and the ribs. If you're ever updating that piece, we'd be glad to send photos, menu highlights, or answer any questions so your readers get the full picture. Either way, thanks for putting a spotlight on Oswego. It's a small town but it's got more good eating in it than people expect. |
-| **SUNY Oswego Alumni Magazine** | https://magazine.oswego.edu/ | High | alumni@oswego.edu (subject line "150 Love" per submission guidelines) | Hey folks, Jim here from Old City Hall Barbecue & Brewery, downtown on Water Street. A lot of alumni probably remember the building from their student days without knowing it used to be Oswego's actual city hall back in 1848. Now it's slow-smoked barbecue and beer we brew right in the building, steps from where you're sitting. We get plenty of SUNY Oswego parents and grads through our doors, especially around homecoming and graduation weekends, and it seemed like a natural fit for the alumni magazine, a little bit of hometown history mixed with a good excuse to come back and eat well by the river. Happy to host alumni events, answer questions, or send along photos if you're working on a piece about downtown Oswego. Thanks for keeping grads connected to home. |
-| **Oswego Harborfest** | https://oswegoharborfest.com/contact | High | Contact form: https://oswegoharborfest.com/contact | Hey there, Jim from Old City Hall Barbecue & Brewery on Water Street. Harborfest brings more folks through downtown Oswego in four days than most towns see all summer, and we'd love to be part of that as a sponsor or Friends of Harborfest member this year. We're right on the river, we brew our own beer, and we smoke a mean brisket, so it seems like a fit whether that means a banner on site, a mention in the program, or just pointing thirsty, hungry festival goers our way after the fireworks. Let me know what sponsorship levels look like and what you need from us. Oswego takes care of Oswego, and Harborfest is about as Oswego as it gets. Looking forward to hearing from you. |
-| **Oswego County News Now (Palladium-Times / Valley News)** | https://www.oswegocountynewsnow.com/ | High | editor@palltimes.com | Hey, this is Jim Walter with Old City Hall Barbecue & Brewery down on Water Street. We're coming up on a good stretch of the season and wanted to see if there's interest in a story on the place, the building goes back to 1836 as a market house and 1848 as Oswego's first city hall, and now we're smoking barbecue and brewing beer inside it. There's a decent local angle too, we're the only brewery and only barbecue spot in downtown Oswego, so we hear from a lot of folks who didn't know the two could live under one roof. Happy to do an interview, host a reporter for a meal, or just answer questions over email, whatever's easiest. Thanks for covering the county the way you do, it matters more than people realize in a town this size. |
-| **Greater Oswego-Fulton Chamber of Commerce (CenterState CEO)** | https://centerstateceo.com/about-us/greater-oswego-fulton-chamber-commerce | Medium | social@oswegofultonchamber.com | Hi, it's Jim over at Old City Hall Barbecue & Brewery, a Chamber member down on Water Street. We're proud to be part of the Greater Oswego-Fulton business community and wanted to check if there's a spotlight feature or blog post opportunity beyond our directory listing, something that shows off the building's history and what a member business looks like these days. We host private events, work with other local vendors when we cater, and try to pull our weight for downtown foot traffic. If a member spotlight, ribbon cutting update, or newsletter mention is in the cards, we'd be glad to contribute photos or a few quotes. Thanks for everything the Chamber does to keep small business here feeling like less of a solo act. |
-| **Oswego County Today** | https://oswegocountytoday.com/contact-us/ | Medium | news@oswegocountytoday.com | Hey there, Jim from Old City Hall Barbecue & Brewery here in Oswego. Saw your coverage of the Harborfest sponsors and figured I'd reach out directly, we're a locally owned barbecue and brewery spot inside the old 1848 city hall building on Water Street, and we're always looking to support the kind of community coverage you all do for the county. If there's ever a fit for a business feature, an event we're hosting, or something food and drink related for your readers, we'd love to help however makes sense, interview, photos, whatever's useful. Oswego County runs on outlets like yours keeping neighbors in the loop, so thanks for that. |
-| **WeddingWire — Wedding Vendor Directory** | https://www.weddingwire.com/vendors/home | Medium | WeddingPro business signup: https://www.weddingpro.com | Hi, I'm Jim Walter with Old City Hall Barbecue & Brewery in Oswego, NY. We cater private parties and receptions out of a restored 1848 building right on the river, slow-smoked barbecue, our own house beer, and a setting that doesn't feel like every other banquet hall in Central New York. We'd like to get set up as a caterer on WeddingWire so couples planning something in the Oswego or Syracuse area can find us when they're building their vendor list. Happy to provide photos, sample menus, or pricing info, whatever you need to get the profile built out right. Thanks for making it easier for folks to plan the big day without losing their minds over logistics. |
-| **Upstate Beer Tourist** | https://www.upstatebeertourist.com/destinations/old-city-hall-brewery | Medium | Social handle: @upstatebeertourist (Instagram) | Hey, it's Jim from Old City Hall Brewery in Oswego. Appreciate you already having us listed as a destination, that means a lot coming from a site that actually gets around the state tasting rooms. Wanted to reach out directly since we've got some new seasonal brews on tap and a refreshed food menu since your write-up went up, figured it might be worth an update or a mention next time you're covering the Oswego or Lake Ontario stretch of the trail. If you're ever passing through Water Street, first flight's on us. Thanks for putting in the miles so beer folks know where to stop. |
-| **I Love NY — Breweries (CNY Region)** | https://www.iloveny.com/things-to-do/food/breweries/ | Low | Contact form: https://www.iloveny.com/contact-us/ | Hi there, Jim Walter here from Old City Hall Barbecue & Brewery in Oswego. Thanks for already having us in the breweries listing, it's good company to be in. Reaching out to see if there's ever an opportunity for a deeper feature, something like a blog post on Central New York's Lake Ontario shoreline or historic buildings turned breweries, since our spot used to be Oswego's original 1848 city hall before it became a place to get ribs and a flight of beer. Happy to send photos or details if that's ever useful for a feature beyond the directory listing. Thanks for putting New York's small towns on the map for travelers. |
+This is a corrected re-run of this week's report: it uses the updated outreach persona (Michelle, marketing manager) and the updated report format (no outreach text in table columns), and covers 10 new opportunities distinct from the ones already sent out earlier this week.
+
+## WRVO Public Media
+- **URL:** https://www.wrvo.org
+- **Location:** Oswego County, NY (studios on the SUNY Oswego campus)
+- **Relevance:** High
+- **Why it fits:** Public radio station licensed to SUNY Oswego whose regional news team explicitly covers Oswego, giving strong local news and SUNY Oswego crossover.
+- **Contact method:** news@wrvo.org (news submissions) or wrvo@wrvo.org (sponsorship inquiries)
+
+**Outreach message:**
+
+Hi, this is Michelle from Old City Hall Barbecue & Brewery on Water Street. I've been a WRVO listener for years, so reaching out feels a little like writing to an old friend. We're the only brewery and the only barbecue restaurant in downtown Oswego, slow smoked ribs and brisket, beer brewed right in the building, and a dining room with a river view that never gets old. We host private events too, rehearsal dinners, birthday parties, nonprofit fundraisers, and we love partnering with local causes when we can. I wanted to see if there might be room for a mention on air, a sponsorship spot, or even a quick feature letting your Oswego area listeners know we're here and open. Happy to send photos, a menu, or hop on a call whenever works. Thank you for keeping Central New York informed, especially in a county where good local news matters more than people realize. Michelle, Old City Hall Barbecue & Brewery
+
+---
+
+## Visit Central New York — Brew Central
+- **URL:** https://visitcentralnewyork.com/brew-central/
+- **Location:** Outside Oswego County (Syracuse, NY regional tourism office)
+- **Relevance:** High
+- **Why it fits:** CNY tourism page promoting the region's craft breweries; confirmed OCH is not currently listed among the featured breweries.
+- **Contact method:** https://visitcentralnewyork.com/contact-us/ (contact form)
+
+**Outreach message:**
+
+Hi, my name is Michelle and I do marketing for Old City Hall Barbecue & Brewery in Oswego, NY. We're set up inside the old 1848 Oswego City Hall, a historic building right on the river downtown, and these days it's home to a barbecue restaurant and our own in house brewery. I came across your Brew Central page and noticed we're not listed among the Central New York breweries yet, and figured Oswego deserves a spot on that map alongside the rest of the region. We brew small batch beer, smoke everything low and slow, and get folks driving in from Syracuse and beyond just for the afternoon. Would love to be included so visitors planning a CNY brewery trip know Oswego is worth the drive. Happy to send photos, our tap list, or anything else useful for the listing. Thanks for putting so much work into showing off what this region has to offer. Michelle, Old City Hall Barbecue & Brewery
+
+---
+
+## Wandercuse
+- **URL:** https://wandercuse.com
+- **Location:** Outside Oswego County (Syracuse, NY)
+- **Relevance:** High
+- **Why it fits:** Active CNY travel and food blog that already covers Oswego history and landmarks, with an open pitch process for new features.
+- **Contact method:** https://wandercuse.com/contact/ (contact form), or @wandercuse on Instagram/X
+
+**Outreach message:**
+
+Hi Dani, this is Michelle from Old City Hall Barbecue & Brewery in Oswego. I've enjoyed following Wandercuse, especially the pieces on Fort Ontario and the canal history, it's clear you actually know this area rather than just passing through. We're located inside the old 1848 Oswego City Hall, a historic building right on the water downtown, now home to a barbecue restaurant and our own brewery. Since you've already covered some Oswego history, I thought this might be a natural next stop, good food, good beer, and a building with its own story to tell. If you're ever planning an Oswego or Lake Ontario shoreline post, we'd love to have you in for a meal and a flight, on us. Happy to send photos or details in the meantime too. Thanks for giving Central New York the kind of attention it doesn't always get in the bigger travel blogs. Michelle, Old City Hall Barbecue & Brewery
+
+---
+
+## Oswego, NY YMCA
+- **URL:** https://oswegoymca.org
+- **Location:** Oswego County, NY
+- **Relevance:** High
+- **Why it fits:** Long-running local nonprofit that runs the Harborfest 5K and Kids Fun Run and takes on local business sponsors and partners.
+- **Contact method:** plevine@oswegoymca.org (Trish Levine, Communications & Marketing Director)
+
+**Outreach message:**
+
+Hi Trish, this is Michelle from Old City Hall Barbecue & Brewery on Water Street. We've watched the Harborfest 5K and Kids Fun Run come through downtown for years and always admired how much the Y pulls together for this community. We're the only barbecue restaurant and brewery in downtown Oswego, and between the food, the beer we brew on site, and a space that can host private parties or fundraisers, we're always looking for ways to support the causes that matter around here. I wanted to reach out about sponsorship opportunities, whether that's the 5K, a youth program, or something else the Y has coming up. We're happy to sponsor, donate food or gift cards, or just get the word out to our regulars. Let me know what support looks like this year and how we can help. Thanks for everything the Y does for Oswego kids and families. Michelle, Old City Hall Barbecue & Brewery
+
+---
+
+## CNY Central — "Your Town" feature series
+- **URL:** https://www.cnycentral.com/station/your-town
+- **Location:** Outside Oswego County (Syracuse, NY)
+- **Relevance:** High
+- **Why it fits:** Recurring local landmark and business feature series on a distinct CNY Central section from the one OCH already has a link on, with a track record of covering Oswego County towns.
+- **Contact method:** news@cnycentral.com, or https://www.cnycentral.com/station/contact
+
+**Outreach message:**
+
+Hi, my name is Michelle and I handle marketing for Old City Hall Barbecue & Brewery in Oswego, NY. We're located inside the original 1848 Oswego City Hall, a historic building right on the river downtown, now home to a barbecue restaurant and our own brewery, the only one of either in downtown Oswego. I noticed your Your Town series has featured some great hidden corners of Central New York, and thought Oswego, and this building in particular, might be a good fit. There's a nice angle here, a nineteenth century city hall now smoking brisket and pouring house made beer. Happy to host a reporter for a visit, answer questions, or send photos and background on the building's history. Thanks for the work you all do shining a light on the smaller towns in this region, it means more than people realize. Michelle, Old City Hall Barbecue & Brewery
+
+---
+
+## SUNY Oswego Alumni Association — Business Directory / Spotlight
+- **URL:** https://alumni.oswego.edu
+- **Location:** Oswego County, NY
+- **Relevance:** Medium
+- **Why it fits:** Alumni-run business directory and spotlight program, distinct from the alumni magazine OCH already reached out to, open to alumni-owned or alumni-connected businesses.
+- **Contact method:** alumni@oswego.edu (315-312-3003)
+
+**Outreach message:**
+
+Hi, this is Michelle with Old City Hall Barbecue & Brewery on Water Street. I know a good number of our regulars are SUNY Oswego grads who never quite left, or come back every homecoming looking for a good meal. We're the only barbecue restaurant and brewery in downtown Oswego, slow smoked food, beer brewed right in the building, and a space we open up for private parties, reunions, and events too. I wanted to see about getting listed in the alumni business directory or spotlight, since we're locally owned and would love more grads to know we're here, especially around homecoming and graduation weekends. Happy to send a business summary, photos, or anything else needed for the listing. Thanks for keeping alumni connected to Oswego, it's a good town to come back to. Michelle, Old City Hall Barbecue & Brewery
+
+---
+
+## Eventective — Oswego, NY directory
+- **URL:** https://www.eventective.com/oswego-ny/
+- **Location:** Outside Oswego County (national event-venue platform)
+- **Relevance:** Medium
+- **Why it fits:** Active, well-populated event venue and vendor directory for Oswego, NY, relevant given OCH's private party catering business.
+- **Contact method:** "List Your Business" business-owner portal on eventective.com
+
+**Outreach message:**
+
+Hi, my name is Michelle and I handle marketing for Old City Hall Barbecue & Brewery in Oswego, NY. We're located inside the original 1848 Oswego City Hall, a historic building right on the river in downtown Oswego, now home to a barbecue restaurant and our own in house brewery. We cater private parties, rehearsal dinners, and small receptions, and our space offers a river view that most banquet halls in the area can't match. I'd like to get us listed on Eventective so people searching for event venues or caterers in Oswego can find us when they're planning something. Happy to provide photos, sample menus, capacity details, or pricing, whatever is needed to build out the listing properly. Thanks for making it easier for people to find good local options instead of scrolling through the same national chains. Michelle, Old City Hall Barbecue & Brewery
+
+---
+
+## GigSalad — Caterers for Hire in Oswego, NY
+- **URL:** https://www.gigsalad.com/Event-Services/Caterer/NY/Oswego
+- **Location:** Outside Oswego County (national event-services marketplace)
+- **Relevance:** Medium
+- **Why it fits:** Active caterer directory specific to Oswego, NY where OCH currently has no profile.
+- **Contact method:** Vendor signup via gigsalad.com
+
+**Outreach message:**
+
+Hi, this is Michelle with Old City Hall Barbecue & Brewery in Oswego, NY. We're set up inside the old 1848 Oswego City Hall, a historic building right on the water downtown, now home to a barbecue restaurant and our own brewery. We cater private parties and events with slow smoked barbecue and our own beer, and we noticed we don't have a profile yet on GigSalad for people searching caterers in the Oswego area. Would love to get listed so folks planning a party, shower, or small wedding in Central New York can find us alongside the other vendors. Happy to send photos, sample menus, and pricing information, whatever you need to get the profile set up right. Thanks for building a place where people can actually find good local caterers instead of guessing. Michelle, Old City Hall Barbecue & Brewery
+
+---
+
+## BeerMenus — Oswego, NY breweries
+- **URL:** https://www.beermenus.com/cities/4730-oswego-ny/nearby/breweries
+- **Location:** Outside Oswego County (national beer-finder platform)
+- **Relevance:** Medium
+- **Why it fits:** Active brewery and beer-menu directory where OCH is not currently listed alongside other regional breweries.
+- **Contact method:** support@beermenus.com, or the self-serve "claim/add your business" flow via help.beermenus.com
+
+**Outreach message:**
+
+Hi, my name is Michelle and I do marketing for Old City Hall Barbecue & Brewery in Oswego, NY. We're located inside the old 1848 Oswego City Hall, a historic building on the river in downtown Oswego, now home to a barbecue restaurant and our own in house brewery, the only one in downtown Oswego. I noticed we're not listed yet on BeerMenus alongside some of the other Central New York breweries, and we'd love to fix that. We keep a rotating tap list of beers we brew ourselves, and it would be great for people searching Oswego or the surrounding area to find us when they're looking for something new to try. Happy to send our current tap list, photos, or anything else needed to get us added. Thanks for keeping such a thorough resource for beer folks looking for their next stop. Michelle, Old City Hall Barbecue & Brewery
+
+---
+
+## Zola — Wedding Vendors (Oswego, NY)
+- **URL:** https://www.zola.com/wedding-vendors/search/oswego-ny--wedding-venues
+- **Location:** Outside Oswego County (national wedding-planning platform)
+- **Relevance:** Medium
+- **Why it fits:** Free vendor listing platform distinct from WeddingWire and The Knot, relevant to OCH's private event and wedding catering business.
+- **Contact method:** Vendor signup via zola.com
+
+**Outreach message:**
+
+Hi, this is Michelle with Old City Hall Barbecue & Brewery in Oswego, NY. We're located inside the historic 1848 Oswego City Hall, right on the river in downtown Oswego, now home to a barbecue restaurant and our own brewery. We cater private events, including a fair number of smaller weddings and rehearsal dinners, and wanted to see about getting listed as a caterer or venue option on Zola. Our space has a river view and a laid back feel that some couples are looking for instead of a typical banquet hall, plus barbecue and beer that's a little different from what's usually on offer. Happy to send photos, sample menus, or pricing, whatever is needed to build out a profile. Thanks for making wedding planning a little less overwhelming for the couples using your site. Michelle, Old City Hall Barbecue & Brewery
+
+---
 
 ## Notes
-- Sites already carrying an OCH backlink (Visit Oswego County directory, Oswego County Business Magazine, CNY Central Open CNY, Untappd venue page) were reviewed but excluded from this week's list since the link already exists; they may resurface in future weeks if a fresh feature or blog opportunity appears.
-- Watch for a second "Oswego, IL" / "Lake Oswego, OR" collision risk — several searches this week returned Illinois and Oregon results under the same town name. All sites listed above were verified as Oswego, NY / Central New York specific.
+- This report replaces the earlier version generated this week, which used the old table format (outreach text in a table column) and the old persona (Jim). This version uses the corrected format and the Michelle persona per updated instructions.
+- All 10 opportunities here are new and distinct from the 10 already sent to Michelle and Hammad earlier this week (The Knot, Family Destinations Guide, SUNY Oswego Alumni Magazine, Oswego Harborfest, Oswego County News Now, Greater Oswego-Fulton Chamber/CenterState CEO, Oswego County Today, WeddingWire, Upstate Beer Tourist, I Love NY Breweries) and from sites where OCH already has a backlink (Visit Oswego County directory, Oswego County Business Magazine, CNY Central Open CNY, Untappd venue page).
+- Checked but excluded: oswegochamber.org resolved to the Oswego, Illinois chamber, a name collision, not the Oswego, NY chamber. Operation Oswego County is a real, active economic-development site but has no dining/business directory, so it's a weak fit. MenuGuide.com already carries an OCH listing. Upstate Eats Trail does not feature Oswego.
 - No outreach has been sent. This report is for Michelle and Hammad to review and send manually.

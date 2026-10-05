@@ -4,6 +4,7 @@ Old City Hall Barbecue & Brewery, 159 Water Street, Oswego, NY
 
 **Notes for review**
 - Sites that already list us were skipped: I Love NY, Visit Oswego County, and Wanderlog.
+- **Repeat check:** Only Wandercuse and GigSalad are new this week. The Chamber, Palladium-Times, City of Oswego, SUNY Oswego, This is CNY, and Brew Central appeared in earlier weekly reports (8/31 to 9/28). If those messages already went out, treat these as follow-ups rather than first contact. New fresh prospects are getting scarce, so next week's run should widen to community sponsor pages and food bloggers outside CNY.
 - Contact details come from public pages found this week. Where an email address was not visible, the contact form or phone is listed. Please confirm before sending.
 - The Chamber website redirects to CenterState CEO, so the contact form lives there. The SUNY Oswego parent guide PDF could not be opened this week, and GigSalad blocked automated access, so those two are marked as needing a manual check.
 

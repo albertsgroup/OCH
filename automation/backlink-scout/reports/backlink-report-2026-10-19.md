@@ -2,7 +2,10 @@
 
 Old City Hall Barbecue & Brewery, 159 Water Street, Oswego, NY
 
-8 opportunities, sorted High relevance first. Details were checked against the live sites on 2026-10-19. Anything I could not confirm is flagged in the Contact method line, so please verify before sending.
+**Notes for review**
+- 9 opportunities, sorted High relevance first. Details were checked against live sites on 2026-10-19. Anything I could not confirm is flagged in the Contact method line, so please verify before sending.
+- **Repeat check:** Only Oswego Speedway is a brand new prospect this week. The other eight appeared in earlier weekly reports (8/31 to 10/05). If those messages already went out, treat these as follow-ups. Two of them (Visit Oswego County, I Love NY) were skipped in earlier weeks because they already list us, but this week's ask is different: both listings describe a brewery and leave out the barbecue, so the message asks for a listing update.
+- Fresh prospects are getting scarce. Next week I suggest widening to Oswego County nonprofits and sponsor pages, and to food writers outside CNY.
 
 ---
 
@@ -10,7 +13,7 @@ Old City Hall Barbecue & Brewery, 159 Water Street, Oswego, NY
 - **URL:** https://visitoswegocounty.com/directory/4948/
 - **Location:** Oswego County, NY
 - **Relevance:** High
-- **Why it fits:** The official county tourism site already lists us as "Old City Hall Brewery" but the listing never mentions barbecue, so this is a quick win to get the smokehouse side added.
+- **Why it fits (repeat, new angle: listing update):** The official county tourism site already lists us as "Old City Hall Brewery" but the listing never mentions barbecue, so this is a quick win to get the smokehouse side added.
 - **Contact method:** Daniel.Breitweg@OswegoCountyNY.gov (Deputy Director of Tourism, from the site's contact page). Backup: contact form at https://visitoswegocounty.com/contact-us/ (choose "Other requests or comments"), or 315-349-8322.
 
 **Outreach message:**
@@ -52,7 +55,7 @@ Michelle, Old City Hall Barbecue & Brewery.
 - **URL:** https://www.iloveny.com/listing/old-city-hall-brewery/138128/
 - **Location:** Outside Oswego County (New York State tourism site)
 - **Relevance:** High
-- **Why it fits:** The statewide tourism listing for "Old City Hall Brewery" talks about beer and heirloom-inspired dishes but says nothing about barbecue, and it ranks well for Oswego searches.
+- **Why it fits (repeat, new angle: listing update):** The statewide tourism listing for "Old City Hall Brewery" talks about beer and heirloom-inspired dishes but says nothing about barbecue, and it ranks well for Oswego searches.
 - **Contact method:** No dedicated listing-update contact found. The listing page footer links to the "I LOVE NY Database", which is the likely place to request changes. Our own contact email is shown on that listing (contact@oldcityhalloswego.com), so a login or claim may already exist.
 
 **Outreach message:**
@@ -96,7 +99,7 @@ Michelle, Old City Hall Barbecue & Brewery.
 - **URL:** https://wandercuse.com/10-restaurants-in-oswego-ny-you-need-to-try/
 - **Location:** Outside Oswego County (Syracuse-based travel blog)
 - **Relevance:** Medium
-- **Why it fits:** Their "11 Restaurants in Oswego, NY You Need to Try" roundup (last updated April 2022 per search results) is a good place for a barbecue and brewery mention, and the blog has about 12K subscribers.
+- **Why it fits (repeat):** Their "11 Restaurants in Oswego, NY You Need to Try" roundup (last updated April 2022 per search results) is a good place for a barbecue and brewery mention, and the blog has about 12K subscribers.
 - **Contact method:** Contact page under the About menu at https://wandercuse.com (page content did not load for me, so the exact form or email is unconfirmed). I could not load the article either, so confirm it does not already mention us.
 
 **Outreach message:**
@@ -131,6 +134,29 @@ I'm Michelle, the marketing manager at Old City Hall Barbecue & Brewery on Water
 We slow smoke brisket, pulled pork, ribs and chicken, brew our beer in house, and run a patio, a tap wall and a private event room. We also cater graduations, family gatherings and company lunches. We're the only brewery and only barbecue restaurant downtown, and we enjoy being part of the neighborhood.
 
 If a local business profile, a community events listing or a seasonal food roundup is something you cover, I'd be glad to send photos, a menu and a time to stop in and meet the team. Thanks for covering our county so well.
+
+Michelle, Old City Hall Barbecue & Brewery.
+
+---
+
+## Oswego Speedway
+- **URL:** https://www.oswegospeedway.com/ (could not load the site; activity confirmed through recent sponsor announcements on myracepass.com, including a June 2025 sponsor release)
+- **Location:** Oswego County, NY
+- **Relevance:** Medium
+- **Why it fits:** The speedway runs lap and race sponsorships with local businesses and its fan club has held chicken BBQ fundraisers, so a barbecue restaurant and brewery is a natural community partner with a likely sponsor page link.
+- **Contact method:** Unconfirmed. The site blocked my check, so use the contact page on oswegospeedway.com or call the track office. Racing season is over, so this is a conversation about 2027 sponsorship.
+
+**Outreach message:**
+
+Hi there,
+
+I'm Michelle, the marketing manager at Old City Hall Barbecue & Brewery on Water Street in downtown Oswego. Oswego has a long racing tradition, and we would love to find a way to support the Speedway and the people who show up every season.
+
+We slow smoke brisket, pulled pork, ribs and chicken, brew our beer in house, and cater events for groups of all sizes, which could work well for race teams, fan club fundraisers and sponsor nights. I noticed the Eagles Fan Club has done barbecue kickoffs, so we may be a good match.
+
+Could you tell me what sponsorship or partner options are open for the 2027 season, and who I should talk to? I'm happy to send a menu, catering details and a quick overview of who we are.
+
+Thanks for the work you do for Oswego.
 
 Michelle, Old City Hall Barbecue & Brewery.
 

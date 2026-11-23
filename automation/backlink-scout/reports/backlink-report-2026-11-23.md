@@ -41,8 +41,8 @@ Michelle, Old City Hall Barbecue & Brewery
 - **URL:** https://oswegocountybusiness.com/?p=9184
 - **Location:** Oswego County, NY
 - **Relevance:** High
-- **Why it fits:** They published Julie McMahon's review of us in June 2025, so asking for a link on that page plus a follow-up story on the barbecue side is a natural ask.
-- **Contact method:** Info@OswegoCountyBusiness.com (phone 315-342-8020)
+- **Why it fits:** They published Julie McMahon's review of us in June 2025, so a follow-up story on the barbecue side is a natural ask (this was last week's top pick; if it was already sent, hold this one).
+- **Contact method:** editor@oswegocountybusiness.com (from last week's report), or Info@OswegoCountyBusiness.com / 315-342-8020
 
 **Outreach message:**
 
@@ -52,7 +52,7 @@ I'm Michelle, the marketing manager at Old City Hall Barbecue & Brewery on Water
 
 A lot has happened since then. Barbecue has become the heart of the menu, with meats smoked low and slow every day, and we're still brewing our beer in house. We've updated the name to Old City Hall Barbecue & Brewery to match. Downstairs, the Underground with its self-serve tap wall is available for private parties and business gatherings.
 
-Two small asks. Would you consider adding a link to oldcityhalloswego.com on that original review so readers can find our current menu? And if you're ever planning a piece on downtown business or local food, we'd love to be part of it. We'd be happy to host whoever is writing for a plate and a pint.
+Would you consider a short follow-up on the barbecue side of the business? And if you're ever planning a piece on downtown business or local food, we'd love to be part of it. Our current menu is at oldcityhalloswego.com. We'd be happy to host whoever is writing for a plate and a pint.
 
 Thanks for covering Oswego County businesses the way you do.
 

@@ -5,6 +5,8 @@ Prepared by the backlink scout routine. 11 opportunities, sorted High relevance 
 
 **Big theme this week:** Two of our most valuable existing listings (Visit Oswego County and I LOVE NY) still call us "Old City Hall Brewery" and never mention barbecue. Fixing those is the fastest, cheapest win on this list, and the Oswego County Business review from June 2025 is worth a follow-up for a link.
 
+**Repeat check:** 9 of the 11 sites below have appeared in earlier reports (Oct 5 through Nov 16). They're kept on the list because the angle is new this week (fixing our outdated name on existing listings, and a link request on the June 2025 review), but if any of them were already pitched, treat these as follow-ups rather than first contacts. **New this week:** CNY Central's "Your Town" series and RD Events & Design.
+
 **Notes before sending:**
 - Contacts marked *(not verified)* could not be confirmed this week; check the site before sending.
 - Harborfest is a paid sponsorship conversation, so it needs a budget decision first.
